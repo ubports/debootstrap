@@ -1,3 +1,15 @@
+debootstrap (1.0.72ubports2) vivid; urgency=medium
+
+  * Backport to vivid
+
+ -- Marius gripsgard <mariogrip@ubuntu.com>  Fri, 05 May 2017 00:57:29 +0200
+
+debootstrap (1.0.72ubuntu1) wily; urgency=medium
+
+  * Add provisional symlink for Ubuntu 16.04 LTS.
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Wed, 21 Oct 2015 13:00:50 +0100
+
 debootstrap (1.0.72) unstable; urgency=medium
 
   [ Iain Lane ]
